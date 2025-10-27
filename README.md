@@ -6,7 +6,7 @@
 
 <p align="center">
   <i>
-    "A noble developer crafting digital kingdoms, one commit at a time"
+    "A developer crafting digital kingdoms, one commit at a time"
   </i>
 </p>
 
@@ -42,7 +42,8 @@ Greetings, fellow adventurer! Welcome to my realm of development. Here you shall
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-FFD700?style=flat-square&logo=tailwind-css&logoColor=black)
 ![Django](https://img.shields.io/badge/-Django-FFD700?style=flat-square&logo=django&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-FFD700?style=flat-square&logo=docker&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-FFD700?style=flat-square&logo=node.js&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly%20x86_64-FFD700?style=flat-square)
+
 
 </div>
 
@@ -52,7 +53,7 @@ Greetings, fellow adventurer! Welcome to my realm of development. Here you shall
   
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Scha77en&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&border_color=FFD700&bg_color=000000)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Scha77en&label=Visitors&color=000000&style=for-the-badge)
+---
 
 </div>
 
@@ -68,7 +69,7 @@ Greetings, fellow adventurer! Welcome to my realm of development. Here you shall
 
 <div align="center">
   
-*"In the realm of code, every bug fixed is a battle won, and every feature shipped is a kingdom conquered."*
+*Don’t be afraid to fail. It’s not the end of the world, and in many ways, it’s the first step toward learning something and getting better at it.*
 
 </div>
 

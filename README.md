@@ -1,7 +1,7 @@
 <h1 align="center">
   ⚔️ Lord [Scha77en] ⚔️
   <br>
-  <img src="https://img.shields.io/badge/Kingdom-Development-FFD700?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Kingdom-Development-663ce1?style=for-the-badge&logo=github&logoColor=black"/>
 </h1>
 
 <p align="center">
@@ -33,16 +33,16 @@ Greetings, fellow adventurer! Welcome to my realm of development. Here you shall
 
 <div align="center">
 
-![C](https://img.shields.io/badge/-C-FFD700?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-FFD700?style=flat-square&logo=c%2B%2B&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-FFD700?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-FFD700?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-FFD700?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-FFD700?style=flat-square&logo=next.js&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-FFD700?style=flat-square&logo=tailwind-css&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-FFD700?style=flat-square&logo=django&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-FFD700?style=flat-square&logo=docker&logoColor=black)
-![Assembly](https://img.shields.io/badge/-Assembly%20x86_64-FFD700?style=flat-square)
+![C](https://img.shields.io/badge/-C-663ce1?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-663ce1?style=flat-square&logo=c%2B%2B&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-663ce1?style=flat-square&logo=python&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-663ce1?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-663ce1?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-663ce1?style=flat-square&logo=next.js&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-663ce1?style=flat-square&logo=tailwind-css&logoColor=black)
+![Django](https://img.shields.io/badge/-Django-663ce1?style=flat-square&logo=django&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-663ce1?style=flat-square&logo=docker&logoColor=black)
+![Assembly](https://img.shields.io/badge/-Assembly%20x86_64-663ce1?style=flat-square)
 
 
 </div>
@@ -51,7 +51,7 @@ Greetings, fellow adventurer! Welcome to my realm of development. Here you shall
 
 <div align="center">
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Scha77en&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&border_color=FFD700&bg_color=000000)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Scha77en&show_icons=true&theme=vision-friendly-dark&title_color=663ce1&icon_color=663ce1&border_color=663ce1&bg_color=000000)
 
 ---
 

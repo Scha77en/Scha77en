@@ -12,6 +12,10 @@
 
 ---
 
+<p align="center">
+  <b><i>Aspiring Kernel and Device Driver Developer</i></b>
+</p>
+
 ### Known languages:
 
 <div align="center">

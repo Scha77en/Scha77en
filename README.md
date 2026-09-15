@@ -58,7 +58,7 @@
 
 <div align="center">
   
-*Don’t be afraid to fail. It’s not the end of the world, and in many ways, it’s the first step toward learning something and getting better at it.*
+*When you are frozen, cold water feels warm.*
 
 </div>
 

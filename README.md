@@ -24,11 +24,6 @@
 ![C](https://img.shields.io/badge/-C-663ce1?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-663ce1?style=flat-square&logo=c%2B%2B&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-663ce1?style=flat-square&logo=python&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JavaScript-663ce1?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-663ce1?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-663ce1?style=flat-square&logo=next.js&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-663ce1?style=flat-square&logo=tailwind-css&logoColor=black)
-![Django](https://img.shields.io/badge/-Django-663ce1?style=flat-square&logo=django&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-663ce1?style=flat-square&logo=docker&logoColor=black)
 ![Assembly](https://img.shields.io/badge/-Assembly%20x86_64-663ce1?style=flat-square)
 
